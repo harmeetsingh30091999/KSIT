@@ -1,0 +1,51 @@
+.main-section-websitedesign{
+	width:100%;
+	display:flex;
+	justify-content:center;
+}
+.web_site-design{
+	width:81%;
+	height:auto;
+}
+
+.web-design_heading1{
+font-size:55px;
+color:black;
+font-weight:600;
+font-family:emoji;	
+}
+.web-design_paragraph{
+	font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-family: system-ui;
+    padding:5px;
+}
+.web1_design1{
+	color:white;
+	display:flex;
+	justify-content:center;
+	box-shadow: 1px 2px 2px 2px rgba(214, 9, 22, 0.8);
+	border:1px solid grey;
+	margin-bottom:10px;
+	padding:5px;
+	background-image:url('../images/website-design/webdesign1111.jpg');	
+    background-repeat:no-repeat;
+    background-size:cover ;
+    background-position:50% ;
+}
+.web1_heading{
+	font-size:30px;
+	font-weight:500;
+	text-align:center;
+	text-decoration:underline;
+}
+.web1_para{
+	font-size:18px;
+	letter-spacing:1px;
+	margin-top:8px;
+}
+.layer_black{
+	background-color:rgba(0,0,0,0.6);
+	z-index:1;
+}

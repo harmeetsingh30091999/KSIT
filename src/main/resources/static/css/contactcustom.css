@@ -1,0 +1,22 @@
+@media only screen and (max-width: 990px){
+.main-section-contactsection {
+    height: 958px;	
+}
+}
+@media only screen and (max-width: 765px){
+.main-section-contactsection {
+    height: 1190px;	
+}	
+.contact-form{
+	width:auto;
+}
+.contact-section{
+	height:fit-content;
+}
+.row{
+	padding-right:10px;
+}
+.maps{
+	height:270px;
+}
+}

@@ -1,0 +1,146 @@
+
+@media only screen and (max-width: 400px){
+	/*Big smartphones [426px -> 600px]*/
+	
+	.nav-para-phone{
+	display:flex;
+	justify-content:center;
+	align-items:baseline;
+	}
+	.phoneno{
+	position:absolute;
+	top:25px;
+	}
+   
+}
+@media only screen and (max-width: 900px) and (min-width: 501px){
+  .bottom-tag {
+    height: 720px;
+    width: 100%;
+    background: black;
+} 
+}
+@media only screen and (max-width: 900px){
+.col1{
+	display:block;
+	height:100%;
+}
+.main-row1 {
+    width: 100%;
+}
+.main-row2 {
+    width: 100%;
+    margin-top:20px;
+}
+
+}
+@media only screen and (max-width: 993px){
+	.navbar_collapse_icon2{
+	display:block;
+	margin-right:80px;
+}
+.navbar-app{
+	justify-content:space-between;
+}
+#navbarNav{
+	background-color:white;
+	position:fixed;
+}
+#nava22{
+	background-color:white;
+	color:black;
+	width:100vw;
+}
+@media only screen and (max-width: 600px){
+	/*Big smartphones [426px -> 600px]*/
+	.logo-image{
+	left:10px;
+	width:240px;
+	}
+	.navbar1{
+	display:flex;
+	justify-content:space-around;
+	}
+   .icons-tag{
+   display:none;
+   }
+  .nav-para-phone{
+   margin-left:0px;
+   }
+   .navbar_collapse_icon2{
+	margin-right:0px;
+   }
+}
+@media only screen and (max-width: 500px){
+	.main-row1 {
+	display:block;
+	}
+	.main-row2 {
+	display:block;
+	}
+	.bottom-tag{
+    height: 1152px;
+	}
+	.col1{
+	height:96%
+	}
+	.sublink{
+	width:99vw;
+	}
+	.row1{
+	width:fit-content;
+	}
+	.row2{
+	width:fit-content;
+	}
+	.row3{
+	width:fit-content;
+	}
+	.row4 {
+    width: 100vw;
+    margin-top: 29px;
+	}
+	.row{
+	margin:0px;
+	}
+	.paragraph1{
+	width:95%;
+	}
+	.bottom_seo_code{
+	height:62px;
+	}
+	.phonemain{
+	width:90%;
+	}
+	.blinkno{
+	width:90%;
+	}	
+	
+}
+@media only screen and (max-width: 410px){	
+	.bottom_seo_code {
+    height: 85px;
+	}
+	.bottom-tag {
+    height: 1189px;
+}
+}
+   
+@media only screen and (max-width: 1100px){   
+	.icons-tag{
+	margin-right:60px;
+	margin-left:0px
+	}
+	.nav-para-phone{
+	width:100%;
+	margin-left:100px;
+	}
+}
+@media only screen and (max-width: 740px){
+.nav-para-phone{
+	margin-left:0px;
+}	
+.icons-tag{
+	margin-right:0px;
+	}
+}

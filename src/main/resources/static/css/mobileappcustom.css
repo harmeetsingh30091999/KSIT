@@ -1,0 +1,425 @@
+@media only screen and (max-width: 1450px){
+
+.mobile-app_content11 {
+    font-size: 14px;
+}
+
+.mobile-app-r0{
+	display:flex;
+	align-items:center;
+	flex-direction:column;
+	height:fit-content;
+}
+.mobie-app-paragraph11{
+position:relative;
+left:0px;
+top:0px;	
+}
+.mobile-app-r1{
+	position:absolute;
+	top:550px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r2{
+	position:absolute;
+	top:770px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r3{
+	position:absolute;
+	top:980px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:1200px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:1430px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:1630px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}
+.mobile_app-para-r1{
+position:relative;
+top:0px;
+left:0px;	
+}
+.mobile_app-para-r2{
+position:relative;
+top:0px;
+left:0px;	
+}
+.main-section-mobileapps {
+    height: 2700px;
+}
+	
+}
+@media only screen and (max-width: 1250px){
+.mobile-app-r6{
+	position:absolute;
+	top:1675px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}
+}
+@media only screen and (max-width: 1180px){
+.main-section-mobileapps {
+    height: 3070px;
+}
+	.para-app111{
+	position:relative;
+	left:0px;
+	margin-top:12px;
+	}
+	.mobile-app-cont1{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	}
+	.mobile-app_content11 {
+    font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 1180px){
+.mobile-app-cont1 {
+    width: 100%    
+}
+.para-app2{
+	padding-left:10px;
+}
+.mobile-app-tp-sec {
+	width:100%;
+	padding:5px;
+}
+}
+@media only screen and (max-width: 790px){
+.mobile-app-r1{
+	position:absolute;
+	top:610px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r2{
+	position:absolute;
+	top:830px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r3{
+	position:absolute;
+	top:1040px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:1260px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:1530px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:1800px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}	
+.main-section-mobileapps {
+    height: 3170px;
+}
+}
+@media only screen and (max-width: 700px){
+
+	.main-section-mobileapps {
+    height: 3600px;
+    }
+	
+	.mobile-app-r1{
+	display:flex;
+	flex-direction:column;
+	height:fit-content;
+	}
+	.mobile_app_para_cont{
+	position:static;
+	left:0px;
+	top:0px;
+	}
+	.mobile-app-r2{
+	position:absolute;
+	top:910px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r3{
+	position:absolute;
+	top:1220px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:1510px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:1850px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:2230px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}	
+	
+}
+@media only screen and (max-width: 600px){
+.main-section-mobileapps {
+    height: 3800px;
+    }
+	
+	.mobile-app-r1{
+	display:flex;
+	flex-direction:column;
+	height:fit-content;
+	top:700px;
+	}
+	.mobile_app_para_cont{
+	position:static;
+	left:0px;
+	top:0px;
+	}
+	.mobile-app-r2{
+	position:absolute;
+	top:1000px;
+	width:100%;
+	height:220px;
+}
+.mobile-app-r3{
+	position:absolute;
+	top:1320px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:1640px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:2000px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:2399px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}	
+.ecom-section {
+     margin-top: 0px;
+}
+.mobile-app-content {
+	top:0px;
+	margin-top: 60px;
+}
+.ecom-heading_1 {
+    width: auto;
+    font-size:22px;
+}
+.ecom-paragraph1 p {
+    font-size:16px;
+}
+}
+@media only screen and (max-width: 510px){
+  .main-section-mobileapps {
+    height: 4000px;
+    }	
+}
+@media only screen and (max-width: 465px){
+
+	.main-section-mobileapps {
+    height: 4300px;
+    }	
+	.mobile-app-r1{
+	display:flex;
+	flex-direction:column;
+	height:fit-content;
+	top:760px;
+	}
+.mobile-app-r2{
+	position:absolute;
+	top:1100px;
+	width:100%;
+	height:auto;
+	
+}
+.mobile-app-r3{
+	position:absolute;
+	top:1450px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:1800px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:2220px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:2660px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}	
+}
+@media only screen and (max-width: 410px){
+	.main-section-mobileapps {
+    height: 4715px;
+    }	
+	.mobile-app-r1{
+	display:flex;
+	flex-direction:column;
+	height:fit-content;
+	top:850px;
+	}
+.mobile-app-r2{
+	position:absolute;
+	top:1240px;
+	width:100%;
+	height:auto;
+	
+}
+.mobile-app-r3{
+	position:absolute;
+	top:1630px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:2000px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:2450px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:2890px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}		
+}
+@media only screen and (max-width: 350px){
+
+	.main-section-mobileapps {
+    height: 4950px;
+    }	
+	.mobile-app-r1{
+	display:flex;
+	flex-direction:column;
+	height:fit-content;
+	top:910px;
+	}
+.mobile-app-r2{
+	position:absolute;
+	top:1300px;
+	width:100%;
+	height:auto;
+	
+}
+.mobile-app-r3{
+	position:absolute;
+	top:1700px;
+	width:100%;
+	height:220px;
+	}
+.mobile-app-r4{
+	position:absolute;
+	top:2110px;
+	width:100%;
+	height:230px;
+	
+}
+.mobile-app-r5{
+	position:absolute;
+	top:2600px;
+	width:100%;
+	height:220px;
+	
+}
+.mobile-app-r6{
+	position:absolute;
+	top:3080px;
+	width:100%;
+	height:auto;
+	display:flex;
+	flex-direction:column;
+}		
+}

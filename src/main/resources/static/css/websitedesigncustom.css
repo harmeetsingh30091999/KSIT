@@ -1,0 +1,236 @@
+@media only screen and (max-width: 1180px){
+	.mobile-app-cont-flex{
+	flex-direction:column;
+	align-items:center;
+	}
+	.ecom-section {
+    height: auto;
+    }
+	.para-app2{
+	position:relative;
+	top:0px;
+	}
+	.para-app1{
+	position:relative;
+	left:0px;
+	top:10px;
+	}
+	.mobile-app-content{
+	height:860px;
+	}
+	/* Ecomerce secition */
+	.ecom-flex-box{
+	flex-direction:column;
+	align-items:center;
+	margin-top:20px;
+	}
+	.ecom-smsection{
+	height:auto;
+	}
+	.heading-ecom-section{
+	width:100%;
+	}
+	.btm-section-image {
+    width: 100%;
+    height: 100%;
+	}
+	.ecom-paragraph1{
+	position:relative;
+	top:0px;
+	left:0px;
+	height:fit-content;
+	}
+	.econ-coursel-main{
+	position:relative;
+	top:0px;
+	left:0px;
+	}
+	/* end of ecom  */
+	.main-section-website {
+    height: auto;
+	}
+	.btm-section-main4 {
+    width: 98%;
+	}
+	.btm-left-main4 {
+    width: 70%;
+    height: auto;
+	}
+	
+}
+@media only screen and (max-width: 870px){
+	.main-app-smhead {
+	width:100%;
+	text-align:center;
+	}
+	.mobile-app-cont1{
+	width:100%;
+	}
+	.para-app1{
+	padding:15px;
+	}
+	.para-app2{
+	padding:15px;
+	}
+	.ecom-smsection{
+	width:100%;
+	}
+	.heading-ecomerce{
+	padding:0px 20px;
+	}
+	.ecom-paragraph1{
+	width:auto;
+	padding:0 10px;
+	}
+}
+@media only screen and (max-width: 800px){
+	.btm-section-main4 {
+	flex-direction:column;
+	}	
+	.btm-sec-website-part{
+	height:593px;
+	}
+	.btm-right-main4 {
+    width: auto;
+	}
+	.main-section-website {
+    height: auto;
+	}
+	.website-design-advant{
+	display:grid;
+	height:fit-content;
+	}
+	.background-layer{
+	height:604px;
+	}
+	.btm-section-image{
+    height:230px;
+	   width:100%;	
+   }	
+}
+
+@media only screen and (max-width: 510px){
+.mobile-app-content{
+  height: 1000px;
+}
+ .heading-main11{
+font-size:27px;
+}	 
+.btm-section-image{
+height:150px;
+width:100%;	
+}
+.btm-right-main4 {
+    width: auto;
+    height: auto;
+}
+.btm-section-main4 {
+    height: auto;
+}
+.para-app2 {
+   padding:10px;
+   left:0px
+}
+.btm-left-main4 {
+    width: 93%;
+}
+}
+@media only screen and (max-width: 600px){
+	.heading-main11 {
+    	font-size: 25px;
+	}
+	.mobile-app-cont-flex {
+    	display: flex;
+    	height: auto;
+    	width: 100%;
+    	margin:0px 30px;
+	}
+	.mobile-app-cont-flex .img-9988{
+		width:100%;
+		height:100%;
+		padding: 0px 15px;
+	}	
+	.ecom-section {
+    	margin-top: 10px
+	}
+	.mobile-app-content {
+    	height: auto;
+	}
+	.para-app2 {
+    	text-align: justify;
+    	padding:5px;
+	}
+	.mobile-app-cont1 {
+    	height:auto;
+	}
+	.econ-coursel-main {
+    	position: relative;
+    	top: 22px;
+	}
+}
+
+@media only screen and (max-width: 400px){
+	.econ-coursel-main{
+	display:none;
+	}
+	.mobile-app-content {
+    height: auto;
+    }
+.ecom-heading_1{
+	width:auto;
+}
+.ecom-section {
+    height: auto;
+}
+.ecom-heading_1 {
+    font-size: 21px;
+}
+.heading-main11 {
+   font-size: 24px;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    padding: 5px;
+    font-size: 12px;
+}
+.para-app1 {
+	padding:0px;
+}
+.head_1122{
+	font-size:19px;
+	font-weight:500;
+}
+.btm-left-main4 h3{
+	font-size:22px;
+}
+.btn9988{
+width:85px;
+height:33px;
+display:flex;
+justify-content:center;
+align-items:center;	
+font-weight:400;
+}
+}
+@media only screen and (max-width: 370px){
+.btm-sec-website-part{
+	display:flex;
+	align-items:baseline;
+	  height: auto;
+    padding: 15px 0px;
+}
+.mobile-app-content {
+    height: auto;
+}
+.btm-left-main4 {
+	margin-top:10px;
+}
+}
+@media only screen and (max-width: 330px){
+.mobile-app-content {
+    height: auto;
+}
+	
+}

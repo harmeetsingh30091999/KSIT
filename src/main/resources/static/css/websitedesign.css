@@ -1,0 +1,207 @@
+.main-section-website{
+	height:auto;
+	width:100%;
+}
+.ecom-section{
+	margin-top:130px;
+	height:500px;
+	width:100%;
+	/* background-color:red; */
+	display:flex;
+	justify-content:center;
+}
+.ecom-smsection{
+	height:500px;
+	width:60%;
+	/* background-color:black ; */
+	position:relative;
+}
+.mobile-app-cont-flex{
+display:flex;
+height:auto;	
+}
+.mobile-app-cont-flex .img-9988{
+height: 237px;
+    width: 263px;
+}
+.heading-main11{
+font-size:33px;
+}	
+.heading-ecomerce{
+	height:50px;
+	width:100%;
+ 	/* background-color:green ; */
+ 	margin-top:20px;
+}
+.econ-coursel-main{
+width:fit-content;
+height:360px;
+background-repeat: no-repeat;
+background-image:url('../images/website-design/website-monitor.png');	
+padding:17px;
+position:relative;
+top:28px;
+left:550px; */
+}
+.carousel
+{
+	top:-1.43px;
+	left:3.1px; 
+	 position:absolute;
+	 width:352px;
+}
+.carousel-item .d-block
+{
+	height:211px;
+	width:100%;
+}
+.ecom-paragraph1
+{
+	width:510px;
+	height:350px;
+	/* background-color:yellow; */
+	position:absolute;
+	top:85px;
+	word-spacing:6px;
+	font-size:19px;
+}
+.ecom-flex-box{
+display:flex;	
+}
+.heading-ecom-section{
+border-bottom:1px solid rgb(201, 199, 199);padding-bottom:3px;width:238px;	
+}
+.ecom-heading_1
+{
+	width:405px;font-size:25px;
+}
+
+/* eccomerce closed */
+
+/* bottom  */
+.btm-sec-website-part
+{
+	width:100%;
+	height:450px;
+	background-color:rgb(242, 243, 245);
+	margin-top:30px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.btm-section-main4{
+	width:81%;
+	height:450px;
+	display:flex;
+	align-items:center;
+}
+.btm-left-main4{
+	width:70%;
+	height:200px;
+}
+.btm-right-main4{
+	width:30%;
+	height:200px;
+}
+.btm-section-image{
+width:420px;height:300px;	
+}
+.website-design-advant{
+	width:100%;
+	height:320px;
+	/* background-color:red; */
+	background:url('../images/responsiveimage.png') no-repeat center center fixed;;
+	 background-position:40%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.wb-work-3{
+	width:250px;
+	height:200px;
+	background-color:black;
+	margin:0px 38px;
+	position:relative;
+	overflow: hidden;
+}
+.wb-work-2{
+	width:250px;
+	height:200px;
+	background-color:black;
+	margin:0px 38px;
+	position:relative;
+	overflow: hidden;
+}
+.wb-work-1{
+	width:250px;
+	height:200px;
+	margin:0px 38px;
+	background-color:black;
+	position:relative;
+	overflow: hidden;
+}
+.wr-ratings{
+	position:absolute;
+	text-align:center;
+	width:100%;
+	top:33px;
+	font-size:37px;
+	font-weight:bold;
+	color:red;
+	letter-spacing:2px;
+}
+.wr-cont{
+	width:100%;
+	position:absolute;
+	top:80px;
+	font-size:27px;
+	color:white;
+	text-align:center;
+}
+.wr-circle{
+	position:absolute;
+	width:70px;
+	height:70px;
+	border:1px solid white;
+	border-radius:50%;
+	top:140px;
+	left:88px;
+	background-color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.para-app1{
+	margin-left:15px;
+}
+.head_1122{
+	font-weight:600;
+	padding-bottom:8px;
+	font-size:25px;
+	color:black
+}
+
+.background-layer{
+	width:100%;
+	height:320px;
+	background-color:rgba( 231, -77, 10,0.9);
+	position:absolute
+}
+.btn9988{
+	background-color:#dc3545;
+	width: 85px;
+    height: 33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    border-radius:5px;
+    color:white;
+}
+.border-wb{
+	position:absolute;
+	width:95%;
+	height:190px;
+	border:1px solid white;
+	margin:5px;
+}

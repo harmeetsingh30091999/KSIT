@@ -1,0 +1,127 @@
+@media only screen and (max-width: 999px){
+
+.main-section-aboutsection{
+height:2870px;	
+}
+	/* about commit started */
+	.about-commit-points{
+	display:flex;
+	flex-direction:column;
+	height:fit-content;
+	}
+	.about-commits{
+	height:1300px;
+	}
+	.about-commit-left {
+    width: 99vw;
+    height: fit-content;
+    margin-left:0px;
+    margin-top:80px;
+    }
+    .about-commit-right{
+    display:block;
+    }
+    .about-list{
+    max-height:200px;
+    height:fit-content;
+    }
+    /* End of about commit started */
+    /* about bottom started */
+    
+    .about-btm-LR{
+    flex-direction:column;
+    height:408px;
+    align-items:center;
+    }
+    .about-bottom-sec {
+    height: 631px;
+    }
+    .about-btm-left{
+    margin:0px;
+    }
+    .about-btm-right{
+    margin:0px;
+    width:500px;
+    }
+    /*  */
+    .about-thr-background {
+    height: 317px;
+    }
+    .Para-back1 {
+    width: 100%;
+    height: auto;
+    }
+}
+@media only screen and (max-width: 749px){
+.about_commit_right-image{
+	height:auto;
+	width:380px;
+}
+.heading-sect1{
+	font-size:17px;
+	height:20px;
+}
+.about-btm-heading1{
+	font-size:40px;
+}
+
+
+
+}
+@media only screen and (max-width: 420px){
+.about-sec-background{
+	background-position:50% 0px;
+}	
+.about_commits_heading1{
+font-size:30px	
+}	
+.about-btm-heading1{
+	font-size:30px;
+}
+.about-bottom-sec {
+    height: 970px;
+}
+.about-bt-list{
+	height:auto;
+}	
+.main-section-aboutsection{
+height:3100px;	
+}
+
+.about_commit_right-image{
+	height:auto;
+	width:240px;
+}
+.heading-sect1{
+	font-size:15px;
+	height:18px;
+}
+.about-sec-background{
+	height:210px;
+}
+.layer-about2{
+	height:210px;
+}
+.about-btm-left{
+   width:fit-content;
+   height:auto;
+    }
+    .about-btm-right{
+    width:fit-content;
+    height:auto;
+    }
+    
+.about-heading-content1 {
+width:auto;	
+}
+
+}
+@media only screen and (max-width: 320px){
+	.about-commits{
+	height:1500px;
+	}
+	.main-section-aboutsection{
+height:3330px;	
+}
+	
+}

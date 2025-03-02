@@ -1,0 +1,201 @@
+.main-section-aboutsection{
+	width:100%;
+	height:268%;
+}
+.aboutus-main-section1{
+	height:800px;
+	width:100%;
+}
+.about-top-background{
+	top:5px;
+	height:300px;
+	width:100%;
+	background-color:yellow;
+	position:relative;
+	background-image:url('../images/about-section/about-back1.jpg');
+	background-position:50% -300px;
+	background-size:cover;
+	background-attachment:fixed;
+	z-index:-2;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+
+ .layer-about{
+	height:300px;
+	width:100%;
+	background-color:rgba(1,0,0,0.6);
+	position:absolute;
+	top:0px;
+	z-index:-1;
+}
+ 
+.about-heading-content1{
+	z-index:2;
+    position:absolute;
+    color:white;
+    width:400px;
+ }
+/*  background section completed */
+
+/* commitment section */
+.about-heading-content2{
+	top:40px;
+	z-index:1;
+    position:absolute;
+    color:black;
+    width:100%;
+}
+.about-commits{
+	height:650px;
+	width:100%;
+	/*   background-color:red; */  
+	position:relative;
+}
+.about-commit-points{
+	display:flex;
+	justify-content:space-between;
+	width:100%;
+	height:430px;
+	 /* background-color:black;  */
+	position:absolute;
+	top:170px;
+	align-items:center;
+}
+.about-commit-left{
+	width:50%;
+	height:400px;
+ 	/* background-color:green; */ 
+	margin-left:50px;
+	font-size:18px;
+}
+.about-commit-right{
+	width:auto;
+	height:330px;
+ 	/* background-color:yellow;  */
+	margin-right:15px;
+}
+.about_commit_right-image{
+	width:550px;
+	height:330px;
+}
+.about_commits_heading1{
+font-size:50px;
+font-weight:normal;	
+}
+.about-list{
+	display:flex;
+	width:100%;
+	height:80px;
+}
+/* end of commit section */
+.about-sec-background{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:300px;
+	width:100%;
+	background-color:yellow;
+	position:relative;
+    background-image:url('../images/about-section/about-back-image22.jpg');
+	background-position:50% -100px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;	
+	z-index:0;
+}
+.layer-about2{
+	height:300px;
+	width:100%;
+	position:absolute;
+	background-color:rgba(0,0,0,0.8);
+	z-index:-1;
+}
+.heading-sect1{
+	height:43px;
+	color:white;
+	 border-right:1px solid white; 
+	font-weight:bold;
+	overflow:hidden;
+	white-space:nowrap;
+	width:49ch;
+	animation:typingAnime 6s steps(48) infinite;
+}
+ @keyframes typingAnime{
+	0%{ width:0ch;}
+	50%{ width:42ch;}
+	65% {width:42ch;}
+	100%{width:0ch;}
+}
+ 
+ .about-bottom-sec{
+	height:500px;
+	width:100%;
+	background-color:rgb(232, 235, 233);
+}
+.about-botm-mainheading{
+	width:100%;
+	height:180px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.about-botm-heading{
+	height:130px;
+	width:850px;
+	text-align:center;
+	display:flex;
+	flex-direction:column;
+	font-size:19px;
+}
+.about-btm-heading1{
+	font-size:56px;
+	font-weight:normal;
+}
+.about-btm-LR{
+	width:100%;
+	height:300px;
+	/* background-color:yellow; */
+	display:flex;
+}
+.about-btm-left{
+	width:500px;
+	height:300px;
+	/* background-color:red; */
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	margin-left:150px;
+}
+.about-btm-right{
+	width:520px;
+	height:300px;
+	/* background-color:red; */
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	margin-left:150px;
+}
+.about-bt-list{
+	display:flex;
+	height:40px;
+	font-size:18px;
+}
+.about-thr-background{
+	height:245px;
+	width:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+    background: rgba(0,0,0,0,8),url('../images/about-image/about-background22.jpg');
+}
+.Para-back1{
+	width:70%;
+	height:100px;
+	font-size:30px;
+	font-family: 'Font Awesome 5 Brands';
+	color:green;
+	text-align:center;
+}
